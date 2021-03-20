@@ -5,7 +5,7 @@
 https://github.com/simonw/datasette-car-2019
 
 Some of these are real commands, and some are errant commands
-
+```
 $ sqlite3
 $ sqlite-utils insert list-N.db listN list-N.csv # 
 $ brew install sqlite-utils
@@ -21,5 +21,5 @@ $ datasette publish --help
 $ datasette publish vercel --help
 
 $ find ~/Library/ -iname '*.sqlite*' -type f -exec du -h {} + | sort -r -h | more
-
+```
 https://simonwillison.net/2019/Feb/25/sqlite-utils/
