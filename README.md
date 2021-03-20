@@ -1,0 +1,1 @@
+- https://simonwillison.net/2021/Mar/5/git-scraping/
