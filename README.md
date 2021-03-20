@@ -22,4 +22,5 @@ $ datasette publish vercel --help
 
 $ find ~/Library/ -iname '*.sqlite*' -type f -exec du -h {} + | sort -r -h | more
 ```
-https://simonwillison.net/2019/Feb/25/sqlite-utils/
+- https://simonwillison.net/2019/Feb/25/sqlite-utils/
+- https://stedolan.github.io/jq/
