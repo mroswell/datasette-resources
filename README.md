@@ -3,3 +3,5 @@
 
 
 https://github.com/simonw/datasette-car-2019
+
+$ find ~/Library/ -iname '*.sqlite*' -type f -exec du -h {} + | sort -r -h | more
