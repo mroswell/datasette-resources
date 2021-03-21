@@ -1,7 +1,9 @@
+### git-scraping
+
 - https://simonwillison.net/2021/Mar/5/git-scraping/ 
   ../.github/workflows/scrape.yml
 
-
+### datasette
 https://github.com/simonw/datasette-car-2019
 
 Some of these are real commands, and some are errant commands
@@ -22,9 +24,13 @@ $ datasette publish vercel --help
 
 $ find ~/Library/ -iname '*.sqlite*' -type f -exec du -h {} + | sort -r -h | more
 ```
-- https://simonwillison.net/2019/Feb/25/sqlite-utils/
-- https://stedolan.github.io/jq/
 
+### sqlite-utils
+
+- https://simonwillison.net/2019/Feb/25/sqlite-utils/
+
+### jq
+- https://stedolan.github.io/jq/
 
 - [(9) jq JSON Processor Tutorial: How to access JSON data from the command line with the jq parser - YouTube](https://www.youtube.com/watch?v=EvpwhGeiH0U)![](images/cross.png)
 - [Processing JSON in the command-line made easy - jq tutorial (first steps) - YouTube](https://www.youtube.com/watch?v=FSn_38gDvzM)![](images/cross.png)
