@@ -41,3 +41,6 @@ $ find ~/Library/ -iname '*.sqlite*' -type f -exec du -h {} + | sort -r -h | mor
 - [David Hand - "Non-trivial jq" - YouTube](https://www.youtube.com/watch?v=MvI6Z85EgVo)![](images/cross.png)
 - [JSON: Like a Boss - YouTube](https://www.youtube.com/watch?v=_ZTibHotSew)![](images/cross.png)
 - [Merging JSON documents in the command-line - jq tutorial - YouTube](https://www.youtube.com/watch?v=uIKvYgix-L4)![](images/cross.png)
+
+### misc
+https://github.com/simonw/heic-to-jpeg
