@@ -4,7 +4,9 @@
   ../.github/workflows/scrape.yml
 
 ### datasette
-https://github.com/simonw/datasette-car-2019
+- https://docs.google.com/document/d/1f61st8AXtpXvjeHB3UlmUhSCG1Ddiwih9nr-nO8LTEY/edit
+- https://github.com/simonw/datasette-car-2019
+- https://24ways.org/2018/fast-autocomplete-search-for-your-website/
 
 Some of these are real commands, and some are errant commands
 ```
