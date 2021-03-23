@@ -46,3 +46,4 @@ $ find ~/Library/ -iname '*.sqlite*' -type f -exec du -h {} + | sort -r -h | mor
 
 ### misc
 https://github.com/simonw/heic-to-jpeg
+https://github.com/simonw/datasette-upload-csvs
