@@ -44,6 +44,11 @@ $ find ~/Library/ -iname '*.sqlite*' -type f -exec du -h {} + | sort -r -h | mor
 - [JSON: Like a Boss - YouTube](https://www.youtube.com/watch?v=_ZTibHotSew)![](images/cross.png)
 - [Merging JSON documents in the command-line - jq tutorial - YouTube](https://www.youtube.com/watch?v=uIKvYgix-L4)![](images/cross.png)
 
+### transform
+$ brew install wget
+$  wget https://latest.datasette.io/fixtures.db
+
+
 ### misc
 https://github.com/simonw/heic-to-jpeg
 https://github.com/simonw/datasette-upload-csvs
