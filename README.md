@@ -1,3 +1,6 @@
+## misc searches
+jinja plugins https://github.com/search?l=Python&q=from+datasette+import+hookimpl+import+jinja2&type=Code
+
 ### git-scraping
 
 - https://simonwillison.net/2021/Mar/5/git-scraping/ 
